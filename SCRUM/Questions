@@ -1,0 +1,10 @@
+1. Can you explain one of your major transformation projects and challenges you faced
+I was part of Modernization project - We are migrating/upgrading  the  existing mainframe legacy applications into  Cloud based platform.
+The purpose is reduce the MIPS cost, improve data availbility,Maintains cost and aligning with enterprise architecture.
+
+I worked as Tech Lead  to design the legacy files into open source platform
+it was binary data in postgres we had created custom function to convert that ASCII format. 
+Data inconsistencies and missing information, implemented DQ checks
+
+2. What are different activities you carry out as SM during sprint planning sessions 
+   Ensure everyone understand sprint goal
