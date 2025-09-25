@@ -28,5 +28,19 @@ User Story : Breaking  down the functionality into small parts
 User story - New member should able to register and create an account.
 Task : Specific work or Deliverable  e.g mapping document, Create FRD.
 We can move user stories from backlog to current sprint.
+
+Product Vision :- 
+- The objective of PO is capture the client needs. 
+- Manage the product backlog 
+- Ensure product meets customer demand
+
+Product Backlog - Creating list of items of Epics/user stories 
+Sprint Backlog : - PO works with Dev team to priortize the select the list that can be taken up in the sprint
+Increment :- It is current version of the product under developement.
+             It contains all previously done work + work done in current sprint
+
+
+PI Planning: (Program increment) PI product road map
+ 
             
 
