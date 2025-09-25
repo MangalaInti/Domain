@@ -1,0 +1,32 @@
+What is Agile ?
+Agile is an approach that breakdown the work into smaller chunks called sprints. 
+Provides more flexibility to adapt changes.
+
+What is Scrum?
+- Scrum is a framework under Agile.
+- Work is divided into sprints (2-4 weeks)
+- Clear Deliverables at the end of each sprint 
+- We have deliveries at the end of each sprint
+- Scrum team consists of - Product owner, Developement team, Scrum master
+
+What is Kanban
+A visual Agile framework 
+Uses a Kanban board (To do - In progress - Done)
+Continous flow
+Agile with visual flow
+
+Scrum Master : Run Daily scrum calls. Facilitates the team in removing the impediments
+
+EPIC : 
+- Epic is high level requirements. 
+- Functionality level
+- Epic can have multiple user stories
+
+e.g Login Portal
+
+User Story : Breaking  down the functionality into small parts
+User story - New member should able to register and create an account.
+Task : Specific work or Deliverable  e.g mapping document, Create FRD.
+We can move user stories from backlog to current sprint.
+            
+
